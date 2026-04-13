@@ -81,6 +81,6 @@ After Forking the Repository you can deploy it on well, pertty much anything tha
 7. Click Save
 
 ## Hope you Enjoy! ✨
-This is my first Open Source project, and im quite new to building websites in all honesty :p so i hope this is of use to anyone
+This is my first Open Source project, and im quite new to building websites in all honesty :p so i hope this is of use to anyone<br>
 Best,<br>
 ~ Magic ^^
