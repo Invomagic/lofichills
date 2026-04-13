@@ -34,7 +34,7 @@ You can create as many pages as you want :) Mostly you only need to know HTML an
 
 "text-success" - Green text for success messages.
 
-".ideo-container" - Responsive, centered container with a shadow for embedding 16:9 videos.
+"video-container" - Responsive, centered container with a shadow for embedding 16:9 videos.
 
 "an-image" - Responsive, centered image with rounded corners (max width 600px)
 
@@ -82,5 +82,5 @@ After Forking the Repository you can deploy it on well, pertty much anything tha
 
 ## Hope you Enjoy! ✨
 This is my first Open Source project, and im quite new to building websites in all honesty :p so i hope this is of use to anyone
-Best,
+Best,<br>
 ~ Magic ^^
