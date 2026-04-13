@@ -71,3 +71,16 @@ After Forking the Repository you can deploy it on well, pertty much anything tha
 8. Leave the "Publish directory" field empty (or put `.` if it complains)
 9. Click "Deploy site"
 
+### GitHub Pages 🐙
+1. Visit your repository page
+2. Go to Repo settings
+3. Under 'Code and automation' click "Pages"
+4. Set source to "Deploy from a branch"
+5. Set Branch to main
+6. Set the thing text to it "/ (root)"
+7. Click Save
+
+## Hope you Enjoy! ✨
+This is my first Open Source project, and im quite new to building websites in all honesty :p so i hope this is of use to anyone
+Best,
+~ Magic ^^
