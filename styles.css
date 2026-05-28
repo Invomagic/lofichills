@@ -51,7 +51,7 @@ nav.navbar {
     margin: 0;
     padding: 40px;
     font-size: 35px;
-    background-image: url('navbg.jpg');
+    background-image: url('navbg.png');
     background-size: cover;
     width: 100%;
     max-width: 100%;
@@ -68,12 +68,12 @@ nav.navbar {
 }
 
 #current-page {
-    color: #ff0040;
+    color: #b2e1ff;
     text-decoration: underline;
 }
 
 #vidcurrent {
-    color: #00ffaa7b;
+    color: #ffffff;
     text-decoration: underline;
 }
 
